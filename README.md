@@ -1,23 +1,10 @@
 # CyberGuard – Intelligent Backdoor Detection Framework
 
-## 🔍 Overview
-CyberGuard is an AI-based system designed to detect hidden backdoor attacks in machine learning models.
+AI-based system to detect hidden backdoor attacks in ML models.
 
-## 🚀 Features
-- Anomaly detection using ML
-- CNN-based detection
-- Heatmap visualization
-- User-friendly GUI
+## Tech Used
+Python, OpenCV, Scikit-learn, Tkinter
 
-## 🛠️ Tech Stack
-- Python
-- OpenCV
-- Scikit-learn
-- CustomTkinter
-
-## ▶️ Run Project
+## Run
 pip install -r requirements.txt  
-python main.py  
-
-## 📌 Author
-Ragavan G
+python main.py
